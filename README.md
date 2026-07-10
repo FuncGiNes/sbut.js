@@ -5,7 +5,7 @@ SBUT Engine is a lightweight JavaScript game engine.
 ## CDN
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/FuncGiNes/sbut.js@v1.0.0/sbut.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/funcgines/sbut.js@v1.0.0/sbut.js"></script>
 ```
 
 ## Features
